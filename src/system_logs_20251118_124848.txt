@@ -1,0 +1,25 @@
+System Logs Export
+Generated: 2025-11-18 12:49:00
+Filtered by: Date Range, User, Action, Severity
+================================================================================
+
+[2025-11-18 12:44:04] INFO - login_success
+User: System Administrator | IP: localhost
+Details: Login attempt
+--------------------------------------------------------------------------------
+[2025-11-18 12:14:33] INFO - application_exit
+User: System Administrator | IP: 
+Details: User exited the application
+--------------------------------------------------------------------------------
+[2025-11-18 12:14:11] INFO - login_success
+User: System Administrator | IP: localhost
+Details: Login attempt
+--------------------------------------------------------------------------------
+[2025-11-18 12:01:21] INFO - logout
+User: System Administrator | IP: 
+Details: User logged out: System Administrator
+--------------------------------------------------------------------------------
+[2025-11-18 11:59:03] INFO - login_success
+User: System Administrator | IP: localhost
+Details: Login attempt
+--------------------------------------------------------------------------------
